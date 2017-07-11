@@ -1,0 +1,111 @@
+{
+  "Tanks": [
+    {
+      "Type": "Player",
+      "Team": 0,
+      "Position": "660, 389"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "600, 164"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "527, 213"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "469, 265"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "464, 336"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "462, 429"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "481, 493"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "524, 559"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "580, 600"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "642, 613"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "684, 172"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "763, 199"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "805, 232"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "842, 296"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "846, 366"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "849, 440"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "840, 496"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "812, 563"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "766, 600"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "707, 611"
+    }
+  ],
+  "Pickups": [],
+  "Obstacles": [
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "100, 900"
+    }
+  ]
+}

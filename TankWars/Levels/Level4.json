@@ -1,0 +1,76 @@
+{
+  "Tanks": [
+    {
+      "Type": "Player",
+      "Team": 0,
+      "Position": "132, 52"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "277, 347"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "261, 233"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "264, 179"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "278, 290"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "272, 420"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "414, 57"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "273, 496"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "279, 581"
+    }
+  ],
+  "Pickups": [],
+  "Obstacles": [
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "289, -21"
+    },
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "156, 237"
+    },
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "100, 900"
+    },
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "415, 507"
+    },
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "410, 246"
+    },
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "155, 493"
+    }
+  ]
+}

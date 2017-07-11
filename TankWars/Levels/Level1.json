@@ -1,0 +1,124 @@
+{
+  "Tanks": [
+    {
+      "Type": "Player",
+      "Team": 0,
+      "Position": "1010, 335"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "143, 156"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "62, 113"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "63, 202"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "62, 294"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "141, 250"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "141, 341"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "140, 448"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "65, 399"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "69, 502"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "214, 293"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "209, 204"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "285, 252"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "281, 348"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "352, 303"
+    },
+    {
+      "Type": "AI",
+      "Team": 1,
+      "Position": "214, 394"
+    }
+  ],
+  "Pickups": [
+    {
+      "Type": "Health",
+      "Position": "812, 99"
+    },
+    {
+      "Type": "Ammo",
+      "Position": "821, 596"
+    }
+  ],
+  "Obstacles": [
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "320, 9"
+    },
+    {
+      "Texture": "Game/Obstacle_Stairs",
+      "Position": "913, 469"
+    },
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "327, 618"
+    },
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "100, 900"
+    },
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "493, 479"
+    },
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "1128, 175"
+    },
+    {
+      "Texture": "Game/Obstacle_Farmhouse",
+      "Position": "486, 96"
+    }
+  ]
+}
